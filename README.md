@@ -4,7 +4,7 @@
 
 **Testing Environment/IDE:** Use any IDE or environment you are comfortable with
 
-**Language:** Any language except **Java Script* is allowed
+**Language:** I am using  **Java Script* 
 
 **Submission:** Push the code to GitHub and provide the link in the submission [form](https://forms.office.com/Pages/ResponsePage.aspx?id=RgrZ10U7MEefYWH3ZTabSHUAtiexAKxCg9YQuJZkvXBUMFpGWEJMTlc5NEFVSUZUOFkzQ1c1WUpWMS4u) along with the output.
 
